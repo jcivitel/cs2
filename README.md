@@ -1,4 +1,4 @@
-[![](https://img.shields.io/maintenance/no/2024)](https://github.com/jcivitel/)
+[![](https://img.shields.io/maintenance/no/2026)](https://github.com/jcivitel/)
 [![Static Badge](https://img.shields.io/badge/GitHub-jcivitell-green?logo=github)](https://github.com/jcivitel/cs2)
 [![GitHub Repo stars](https://img.shields.io/github/stars/jcivitel/cs2)](https://github.com/jcivitel/cs2)
 [![Docker Pulls](https://img.shields.io/docker/pulls/jcivitell/cs2?logo=docker)](https://hub.docker.com/r/jcivitell/cs2)
